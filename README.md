@@ -33,6 +33,7 @@
 
 
 ## API Documentation
+See also http://bit.ly/datapalooza2016 for more links
 
 Transport API: http://docs.transportapi.com/index.html?raml=http://transportapi.com/v3/raml/transportapi.raml  
 TheWeatherChannel: https://www.ng.bluemix.net/docs/services/Weather/index.html  
